@@ -1,10 +1,10 @@
 # Ellihas Freitas (Ojuara)
 
 ## Sobre Mim
-Sou um entusiasta da tecnologia que começou a jornada de programação recentemente. Minha primeira experiência com código foi com a linguagem C durante meu curso de Engenharia de Materiais na Universidade Federal do Piauí. Agora, estou expandindo meus horizontes estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Católica de Santa Catarina e mergulhando no mundo do Back-End com Java no Bootcamp Santander oferecido pela DIO.
+Sou um entusiasta da tecnologia que começou a jornada de programação em 2018. Minha primeira experiência com código foi com a linguagem C durante meu curso de Engenharia de Materiais na Universidade Federal do Piauí. Agora, estou expandindo meus horizontes estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Católica de Santa Catarina e mergulhando no mundo full-stack.
 
 ## Música e Fé
-Além da tecnologia, tenho uma grande paixão pela música. Sou músico formado e toco cinco instrumentos diferentes, expressando minha fé e criatividade através das melodias. Minha fé cristã é a base de tudo que faço e é o que me inspira a ser melhor a cada dia.
+Além da tecnologia, tenho uma grande paixão pela música. Sou músico formado e toco cinco instrumentos diferentes, expresso criatividade e também a fé através das melodias. Minha fé cristã é a base de tudo que faço e é o que me inspira a ser melhor a cada dia.
 
 ## Hobbies
 Quando não estou codando ou tocando música, você pode me encontrar:
