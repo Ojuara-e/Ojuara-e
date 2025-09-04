@@ -1,4 +1,4 @@
-# Olá, eu sou o Ellihas Freitas, mas pode me chamar de Ojuara! 👋
+# Ellihas Freitas (Ojuara)
 
 ## Sobre Mim
 Sou um entusiasta da tecnologia que começou a jornada de programação recentemente. Minha primeira experiência com código foi com a linguagem C durante meu curso de Engenharia de Materiais na Universidade Federal do Piauí. Agora, estou expandindo meus horizontes estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Católica de Santa Catarina e mergulhando no mundo do Back-End com Java no Bootcamp Santander oferecido pela DIO.
