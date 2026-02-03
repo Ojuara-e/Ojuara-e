@@ -28,7 +28,7 @@ The knowledge acquired through my studies and certifications can be found throug
 - 📜 **Microsoft Power BI for Business Intelligence & Data Science**  
   🔗 [View Certificate](https://mycourse.app/4fXgvdll8ILnGXq5y)
 - 📜 **Python: From Basics to AI Applications**  
-  🔗 [View Certificate](#)
+  🔗 [View Certificate](https://mycourse.app/vrjO7LSAczuyswqQA)
 
 ### Santander
 - 📜 **Microsoft Excel Certification**  
@@ -71,7 +71,7 @@ Os conhecimentos adquiridos ao longo da minha formação e certificações podem
 - 📜 **Microsoft Power BI para Business Intelligence e Data Science**  
   🔗 [Ver Certificado](https://mycourse.app/4fXgvdll8ILnGXq5y)
 - 📜 **Linguagem Python do Básico a Aplicações em IA**  
-  🔗 [Ver Certificado](#)
+  🔗 [Ver Certificado](https://mycourse.app/vrjO7LSAczuyswqQA)
 
 ### Santander
 - 📜 **Certificação em Microsoft Excel**  
